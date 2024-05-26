@@ -1,0 +1,2 @@
+-->.git status:- it is very first command which is used for knowing status.
+-->.git init(initialize):-used to initialize an empty repositary.
