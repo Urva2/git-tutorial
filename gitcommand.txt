@@ -1,2 +1,7 @@
 -->.git status:- it is very first command which is used for knowing status.
 -->.git init(initialize):-used to initialize an empty repositary.
+-->.git add .:- used to stage all untacked files.
+-->.git commit -m "(msg)":-used to commit all changes with perticular msg.
+-->.git log:-used to see chages.
+-->.git config --global user.name :- used to change name .
+-->.git config --global user.email:- used to change email.  

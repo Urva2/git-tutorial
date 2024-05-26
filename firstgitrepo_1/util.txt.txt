@@ -1,1 +1,1 @@
-utility is core function.
+utility is function of version 2.
